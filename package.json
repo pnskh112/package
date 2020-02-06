@@ -2,6 +2,6 @@
   "name": "circleci-sample",
   "scripts": {
     "test": "echo This is Test-Script",
-    "deploy": "echo This is Deploy-Script"
+    "deploy": "echo This is Deploy-Script aaaaaaa"
   }
 }
